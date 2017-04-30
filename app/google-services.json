@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "845678506930",
+    "firebase_url": "https://weeklyhours-7f94f.firebaseio.com",
+    "project_id": "weeklyhours-7f94f",
+    "storage_bucket": "weeklyhours-7f94f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845678506930:android:e28692dcd3a5828c",
+        "android_client_info": {
+          "package_name": "icue.com.weeklyhours"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845678506930-3kgdrshhig30c0dssj0kf16qq7joounn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "icue.com.weeklyhours",
+            "certificate_hash": "c0f4587e828f271c7a35594d13e68008d2bf477a"
+          }
+        },
+        {
+          "client_id": "845678506930-ct5a318obfuqkp1apol9jb5dr6bqc7et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwzeCUrGHB5XJn6F2PWQEPM1Au-Pbgedk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845678506930-ct5a318obfuqkp1apol9jb5dr6bqc7et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
